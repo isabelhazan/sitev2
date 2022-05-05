@@ -2,12 +2,6 @@
 title: "The impact of surrounding ourselves with the right people"
 description: "the influence of our environment"
 date: "2017-11-08"
-tags: 
-"Growth"
-"Self"
-"Environment"
-"Friendship" 
-
 draft: false
 ---
 
