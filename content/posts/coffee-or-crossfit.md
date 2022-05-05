@@ -2,9 +2,11 @@
 title: "Coffee or Crossfit?"
 description: "Coffee or Crossfit? My new morning habit that's beating caffeine"
 date: "2017-07-26"
-tags:
-- "Exercise"
-- "Improvement"
+tags: [
+ "Exercise"
+ "Improvement"
+]
+draft: false
 --- 
 
 
