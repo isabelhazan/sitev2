@@ -1,3 +1,6 @@
+---
+title: "Home"
+---
 
 # Hi 
 Welcome to my site :) I hope you have fun & maybe even learn something while you're here!
