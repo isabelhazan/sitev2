@@ -12,13 +12,11 @@ tags = [
 Watching the first-hand accounts of the harm caused by Larry Nassar and USA Gymnastics unravel in the past few weeks has been heart-breaking and extremely eye-opening for me. Learning that the role models of my childhood were victims of sexual abuse while training for the Olympics is not something I could have ever predicted. These gymnasts were the ones my friends and I looked up to and talked about every day as the Summer Olympics approached. They embodied everything we strived to be as gymnasts and as individuals, always seeming so effortlessly happy and graceful, both in competition and in their everyday lives. It never crossed our minds that something so painful and challenging could have been happening behind everything we were seeing.
 Each testimony hurt to watch. I started with Jordyn Weiber’s, which led me to Aly Raisman’s, and soon enough I was knee deep in the heart-wrenching accounts of the struggles each of these girls faced during some of the most innocent and formative years of their lives.
  
-### WHY DID THIS HAPPEN? WHY IS IT COMING OUT NOW?
-It is an important question because there is an answer.
-### THERE ARE WALLS WHICH SHIELD THESE PERPETRATORS FROM THE REST OF SOCIETY.
-### THESE WALLS NEED TO BE BROKEN DOWN.
+### Why did this happen and why is it comming out now?
+There are walls which protect perpetrators like Nassar from society. These are the walls that need to be broken. By speking up, these girls are breaking more than just their silence.
+
+They are breaking walls.
  
-### BY SPEAKING UP, THESE GIRLS ARE BREAKING MORE THAN JUST SILENCE.
-THEY ARE BREAKING WALLS.
 Here’s the thing about these walls; they don’t just break down organically. They don’t just crumble under the natural forces of the atmosphere. They are built to last through time and endure through natural deterioration. Somehow, these walls find a way to persist, to remain, and to continue protecting the horrific acts of these monsters who rely on them to preserve the privacy of their cruelties.
 These walls are not invincible, however. These walls can be broken down, but not easily. There needs to be a lot of force, coming from many different sources, and at different angles. These walls need to be broken down at every point of strength until they crumble to dust and fall to the ground, revealing the atrocities committed behind them.
 Each one of these monsters has a wall around them, built by the institutions, colleagues, friends or family members who may have protected them from the public.
@@ -53,5 +51,8 @@ The only way to truly create a better future is to willingly open our minds. To 
  
 To create a more unified and just future for our children, we must stand behind each other, and we must attack these walls together. We mustn’t slow down until there are no more walls left to tackle, and no places left for these monsters to hide.
 We mustn’t stop until each voice has been heard and each brick has been blasted to dust.
-### TO A FUTURE OF JUSTICE, OF LISTENING, OF EMPATHY AND OF COMPASSION.
-### TO A FUTURE WITH NO WALLS.
+
+To a future of justice, listening, empathy and compassion.
+
+To a future with no walls.
+ 

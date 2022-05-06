@@ -1,6 +1,6 @@
 baseURL = "https://www.isabelhazan.com/"
 languageCode = "en-us"
-title = "Carlisle"
+title = "Isabel Hazan"
 summaryLength = 32
 
 [markup.goldmark.renderer]
