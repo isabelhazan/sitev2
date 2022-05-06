@@ -12,9 +12,14 @@ tags = [
 +++
 
 We can’t sprint forever. We have to catch our breath.
+
+
 My whole life, I have always been a big do-er. I like to experience things, set goals, make things happen, do well, meet people, learn things, etc. I have always been drawn to action – to the DOING side of living. I rarely saw the value in letting myself just BE when I didn’t have something urgent I needed to do. I always found something new to fill my time.
 This past week, I stumbled upon a quote which really struck me:
-“Beware the barrenness of a busy life.”
+
+
+>“Beware the barrenness of a busy life.”</br>
+
 I had to read it a few times before it fully sunk in. I think I was mostly taken aback by the word “barren”, and its correlation to being non-fruitful. I tend to focus on creating fruitful relationships and experiences – ones which bring us joy, introduce us to new people and teach us new things. The intention of the quote is to say that being in a constant state of motion makes it extremely difficult to distill these organic, unexpected moments – the ones which often end up being boundlessly fruitful. It is impossible to embrace the spontaneity and natural sway of life when we are so zeroed in on moving forward, constantly.
 I am all for forward motion, but there is definitely something to be said for slowing down and letting ourselves catch our breath when working towards something. This change of pace creates space for us to become conscious of where we are instead of solely focusing on where we are going. This space creates room for thought, room for awareness, and room for being present, bringing our attention to the people and experiences around us, which likely won’t even make it into our periphery if all we’re doing is looking straight ahead.
  

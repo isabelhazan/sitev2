@@ -32,7 +32,7 @@ Most notably, I recently met someone who shared my passion for the self-developm
  
 A few months before this, I had made a list of a few companies I could see myself working for – and guess which company was at the top of that list?
 
-### intelligent chance - creators of the five minute journal
+### intelligent change - creators of the five minute journal
 
  This is now the same company I have an introductory call with and a connection to – all because I decided to start talking to someone I was curious about.
  A note I made this past summer about companies I would one day want to work for – Intelligent Change was sitting at the top of my list.
