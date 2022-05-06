@@ -3,7 +3,7 @@ title: "home"
 ---
 
 # Hi 
-Welcome to my site :) You can learn more about me [here](/content/about.md) I hope you have fun while you're here & maybe even learn something! If you do, let me know...
+Welcome to my site :) You can learn more about me [here](/about.md) I hope you have fun while you're here & maybe even learn something! If you do, let me know...
 
 # Where to find more of me
 All of my writing is stored on this site, but you can see some of the original posts on my [Medium page](https://medium.com/@isabelhazan) , and [sign up for my newsletter](https://isabelhazan.ck.page/) where I send out a weekly(ish) essay outlining my current breakthrough thoughts on life, meaning, alignment and self actualization - and other life-inspired-writing-rabbit-holes. 
