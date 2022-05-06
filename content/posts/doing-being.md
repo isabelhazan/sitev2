@@ -5,7 +5,7 @@ date = "2018-01-23"
 description = "inner peace and productivity"
 tags = [
     "life",
-    "productivity"
+    "productivity",
     "balance"
 ]
 
