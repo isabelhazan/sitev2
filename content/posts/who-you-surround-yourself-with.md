@@ -1,5 +1,5 @@
 ---
-title: "The impact of surrounding ourselves with the right people"
+title: "who your surround yourself with"
 description: "the influence of our environment"
 date: "2017-11-08"
 draft: false

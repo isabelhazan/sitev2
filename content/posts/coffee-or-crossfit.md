@@ -1,5 +1,5 @@
 ---
-title: "Coffee or Crossfit?"
+title: "coffee or crossfit?"
 description: "Coffee or Crossfit? My new morning habit that's beating caffeine"
 date: "2017-07-26"
 draft: false
