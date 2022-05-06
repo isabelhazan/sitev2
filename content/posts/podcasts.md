@@ -16,7 +16,7 @@ Now, for the first addition:
 PODCASTS
  
 If you take ONE THING away from this list, please let it be this:
-START LISTENING TO PODCASTS.
+## start listening to podcasts
 For those of you who have never listened to a podcast before, pull the search bar down on the home screen of your phone right now and type in the word “podcast”. See that? You have the app on your phone already and you might have not even known about it! All you have to do now is look up a podcast channel or episode you want (I will recommend a few later in this post), and press play on any episode for FREE. If you don’t have the app on your phone, pretty much every podcast is available for free online (or on Spotify if you prefer it to iTunes – I use Spotify for music, and iTunes for podcasts).
 One of my friends sent me a podcast in January of 2017 called “Simply Happy” (click here to listen in the podcast app or in iTunes on your computer), which contained a compilation of snippits from TED talks revolving around happiness and interviews with those who gave the talks. This episode was extremely engaging and easy to listen to, and ever since then I have been absolutely hooked.
  
@@ -32,7 +32,7 @@ Even if you only get through one podcast a week, that is 52 more at the end of t
 Podcasts are such a game-changer and provide you with numerous engaging conversation topics you would otherwise be completely unaware of.
 This past summer, I was in the middle of a conversation with an executive at a company, and we got to talking about the confusing nature of cryptocurrencies (before Bitcoin was the hottest topic in the news, as it is now). Fortunately, I had stumbled upon  a great podcast episode about that exact topic a few days prior, and recommended he listened to the episode, produced by Tim Ferriss, one of my all-time favourite podcast-ers (word?). A few days later, he asked if I had any other recommendations, and three months after our initial conversation, he emailed me to let me know he is now completely hooked on all of Tim Ferriss’ podcasts! (They are addictive). This experience is something that would never have happened if I had not put on a podcast which quite honestly did not interest me much when I initially pressed play. Only after I listened to the episode did I realize how fascinating this topic I knew so little about truly was, which has been the case for me with so many other podcast episodes as well.
 Regardless of what you are into, there really is a podcast channel out there for everyone; whether you like sports, murder mystery stories, want to learn Spanish, are interested in how major companies were built from the ground up, are fascinated by the human mind, love listening to interviews with successful or hilarious people or miss learning about history! One of the greatest benefits to podcast listening is sharing episodes with friends who you think would enjoy them as well, ultimately creating a future conversation topic for the next time you see each other. Almost everyone I know who has gotten into podcasts this year is shocked by how much they like them and how easy they are to listen to.
-I HAVE LISTED A FEW OF MY FAVOURITES BELOW.
+## i have listed a few favourites below
 You can click on the titles or images to listen in the podcast app or on your computer.
       1. Airbnb – How I built This – one of the podcasts that got me hooked on podcasts (42 mins)
  
