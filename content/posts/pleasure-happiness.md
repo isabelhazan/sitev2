@@ -1,6 +1,6 @@
 +++
 author = "Isabel"
-title = "9the dichotomy between pleasure and happiness"
+title = "the dichotomy between pleasure and happiness"
 date = "2018-05-30"
 description = "joy and fulfillment"
 tags = [
