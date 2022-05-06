@@ -1,5 +1,6 @@
 ---
 title: "about me"
+date: "2022-05-06"
 ---
 
 Instead of a traditional bio, I want this page to be a (perhaps rotating) short list of a few of my current core values and principles, especially the ones that are informing my writing and the intentions behind it.. 

@@ -36,7 +36,9 @@ Finding our natural fascination is incredibly important, and arguably the most e
 The point of this idea is to embrace what you are naturally fascinated by. There is a limit to how good you can get at something that just doesn’t hold your attention or peak your interest. There are going to be people who love doing that thing, and their natural fascination will drive them to commit to it effortlessly, genuinely enjoying the time they invest in it.
 
 Our best bet is to invest time and energy into the things that draw us in and spike our curiosity. That’s not to say if you “naturally like sports” you should drop everything and chase a career path in sports with no clear goal in mind, but rather that there might be something you naturally like doing, naturally improve at quickly, and naturally find yourself trying to learn more about. This is probably the same thing people may “know you for” or come to you for help with – it is your thing. Whether it is leading a group of people, giving speeches, coding, learning languages, painting, photography, writing, designing clothes, whatever it is – it doesn’t have to perfectly align with the cookie cutter path of where you “should be going.” It just needs to naturally invigorate you. It is something worth investing energy into.  In other words,
-“Find what you are good at without trying, and then TRY!”
+
+> “Find what you are good at without trying, and then TRY!” </br>
+
 The beauty in finding your natural fascination is that when you let yourself just BE instead of DO, you end up talking with people about this fascination, and serendipitously get exposed to new layers of this topic which you could miss if you were focused only on DOING.
 Not only is this time of “just being” important for discovering and nurturing your natural fascination, but also for creating memories which will permeate through time and link you to others indefinitely. We are a product of our experiences and conversations, and letting ourselves be completely present in a given moment enriches these experiences endlessly. By being intentionally unintentional, we allow an experience or conversation flow in the natural direction it is trying to, leading us to a more fruitful outcome than attempting to veer the moment to where you feel it “should” go.
 
@@ -44,10 +46,16 @@ Ultimately, we must create a balance for ourselves between intention and spontan
 Right now, we are young, capable, independent, driven and very privileged to be in the situations we are in. It would be unwise to ignore the opportunities we have in our current circumstances and avoid using our time to progress in our personal pursuits. However, these are also some of the best and most experientially fruitful times in our lives and we cannot turn a blind eye to that fact. We cannot turn down opportunities to be with people, and experience life spontaneously at every turn to focus on “what needs to get done”, otherwise we will look back when we are older and wish we took more advantage of these fleeting opportunities.
 We DO our best when we also let ourselves BE. Being in a constant state of motion simply does not produce the best results. We need time to breathe. We need the oxygen that comes from experiences with others, from following our natural fascination and from being intentionally unintentional.
 Sometimes we need to really hold on and focus on DOING, and sometimes we need to let go so we can readjust our grip.
+
+
 Don’t wear yourself out till you’re forced to let go and entirely lose hold of what you were so focused on hanging onto. Keep your grip strong by giving your hands a rest every now and then. It is the healthiest and most sustainable path to success and fulfillment.
 Life is not just about results, it is also about life.
+
+
 We must shift back and forth between doing and being in a manner akin to breathing. When we are doing, we are working hard, we are focused, we are under tension, we are inhaling. When we are being, we let ourselves adjust our grip, catch our breath and enjoy what is around us. We are exhaling.
-To survive, we must inhale and exhale.
+
+
+### To survive, we must inhale and exhale.
 We must be intentional, and we must be intentionally unintentional.
 We must balance both.
 Life is a combination of these two mentalities, and we mustn’t forget the importance of each one.
