@@ -1,10 +1,13 @@
----
-title: "do what scares you"
-description: "What we gain by facing fear"
-date: "2017-11-19"
-draft: false
-
----
++++
+author = "Isabel"
+title = "do what scares you"
+date = "2017-11-19"
+description = "What we gain by facing fear"
+tags = [
+    "shortcodes",
+    "privacy",
+]
++++
 
 ## Do what scares you
 

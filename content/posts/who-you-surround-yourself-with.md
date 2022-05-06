@@ -1,5 +1,5 @@
 ---
-title: "who your surround yourself with"
+title: "the importance of who you surround yourself with"
 description: "the influence of our environment"
 date: "2017-11-08"
 draft: false
