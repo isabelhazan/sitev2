@@ -1,7 +1,3 @@
----
-draft: false
----
-
 +++
 author = "Hugo Authors"
 title = "Rich Content"

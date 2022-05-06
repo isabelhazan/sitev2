@@ -1,7 +1,3 @@
----
-draft: true
----
-
 +++
 author = "Hugo Authors"
 title = "Placeholder Text"

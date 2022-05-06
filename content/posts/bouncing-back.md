@@ -6,6 +6,8 @@ draft: false
 
 ---
 
+## how do we bounce back?
+
 For what might have been a gruelling semester for many of us, the holidays are a welcome break and a time to reflect and reset before the school year continues in January.
 It can be difficult to look back on a challenging period, such as exam season, and extract takeaways from what seems like it was nothing but repetitive studying and a consistent commitment to inadequate rest. However, despite the treacherous daily routine of exam season, or the countless hours spent studying this semester in the hopes that our marks would reflect our hard work, this time is important to evaluate how successful we were and why that may be.
 It is imperative to recognize that success is not a simple quantifiable measure, gauged by the letter grades sitting next to our courses on our school’s mark portal, but rather the sum of our successes in all aspects of our lives.
