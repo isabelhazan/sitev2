@@ -1,6 +1,6 @@
 +++
 author = "Isabel"
-title = "how can we make our own luck"
+title = "make your own luck"
 date = "2018-03-05"
 description = "the formula for serendipity"
 tags = [
