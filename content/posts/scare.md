@@ -1,6 +1,3 @@
----
-draft: false
----
 +++
 author = "Isabel"
 title = "do what scares you"
