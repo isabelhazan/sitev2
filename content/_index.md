@@ -12,7 +12,7 @@ I'm fairly active on [Twitter](https://twitter.com/isabelhazan) as well -- come 
 
 And if you'd like to reach out to me directly (I love making new internet friends so do not be shy) - shoot me an email at hazanisabel@gmail.com 
 
-You can learn more about me [here](/about.md) 
+You can learn more about me [here](/content/about.md) 
 
 & that's all for now folks! 
 
