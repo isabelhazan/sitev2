@@ -1,5 +1,5 @@
 ---
-title: "how do we bounce back"
+title: "how do we bounce back?"
 description: "resilience"
 date: "2017-12-27"
 draft: false

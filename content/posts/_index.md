@@ -1,6 +1,4 @@
 ---
-title: "Posts"
+title: "My writing through the ages:"
 ---
-
-## My writing through the ages:
 
