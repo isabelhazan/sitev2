@@ -51,7 +51,7 @@ main {
 }
 
 a {
-    color: var(--foreground-default)
+    color: var(--accent)
 }
 
 /* TYPOGRAPHY */
