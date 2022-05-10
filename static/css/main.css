@@ -10,8 +10,11 @@ body {
     /* default light-mode colors */
     --foreground-default: #222;
     --foreground-light: #778;
+    --foreground-visited: #99a;
     --background-default: #f8f8f8;
     --background-block: #eee;
+    --accent: #bf8ad2;
+
 }
 
 html {
@@ -23,6 +26,7 @@ body {
     font-family: var(--font-serif);
     color: var(--foreground-default);
     background: var(--background-default);
+    border-bottom: 8px solid var(--foreground-default);
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -35,6 +39,7 @@ footer {
 }
 
 main {
+    flex-grow: 1;
     flex-shrink: 0;
 
     /* paper feel */
