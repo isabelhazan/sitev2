@@ -5,7 +5,7 @@ date: "2017-11-08"
 draft: false
 ---
 
-### “You are the avaergae of the five people you surround yourself with most.”
+### “You are the average of the five people you surround yourself with most.”
 The single most important choice we make on a daily basis is who we choose to surround ourselves with. 
 
 We are easily influenced by our environment as a species, and the environment we choose to put ourselves in has a large impact on how we think, act and speak. We may not think we are easily influenced by those around us, that we have a resilience to conformity or that we have a strong sense of self. These could be all very well be true, but there is no doubt that our environment is having an impact on how we act; even if it is a slow process. Whether it be altering our standards of success, shifting our priorities, changing the way we speak, causing us to take part in things our friends are doing, or anything else that fits in to our day to day lives.
