@@ -51,7 +51,11 @@ main {
 }
 
 a {
-    color: var(--accent)
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    text-decoration-thickness: 3px;
+    text-underline-offset: 0.0625em;
+    transition: text-decoration-color .2s;
 }
 
 /* TYPOGRAPHY */
