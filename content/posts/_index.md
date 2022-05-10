@@ -2,5 +2,5 @@
 title: "Posts"
 ---
 
-### my writing through the ages:
+## My writing through the ages:
 
