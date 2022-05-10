@@ -10,7 +10,7 @@ body {
     /* default light-mode colors */
     --foreground-default: #222;
     --foreground-light: #778;
-    --foreground-visited: rgb(88, 81, 92);
+    --foreground-visited: rgb(122, 120, 120);
     --background-default: #f8f8f8;
     --background-block: #eee;
     --accent: #bf8ad2;
@@ -110,7 +110,7 @@ p a {
     
     padding: initial;
     background: initial;
-
+    font-weight: bold;
     text-decoration: underline;
     text-decoration-color: var(--accent);
     text-decoration-thickness: 3px;
