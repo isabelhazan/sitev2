@@ -10,7 +10,7 @@ body {
     /* default light-mode colors */
     --foreground-default: #222;
     --foreground-light: #778;
-    --foreground-visited: #99a;
+    --foreground-visited: rgb(88, 81, 92);
     --background-default: #f8f8f8;
     --background-block: #eee;
     --accent: #bf8ad2;
