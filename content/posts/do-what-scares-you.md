@@ -4,8 +4,8 @@ title = "do what scares you"
 date = "2017-11-19"
 description = "What we gain by facing fear"
 tags = [
-    "shortcodes",
-    "privacy",
+    "fear",
+    "resilience"
 ]
 +++
 
