@@ -13,7 +13,7 @@ body {
     --foreground-visited: #99a;
     --background-default: #f8f8f8;
     --background-block: #eee;
-    --accent: #f2d680;
+    --accent: #bf8ad2;
 
 }
 
@@ -51,7 +51,7 @@ main {
 }
 
 main a {
-    color: var(--foreground-default)
+   color: var(--foreground-default)
     text-decoration: underline;
     text-decoration-color: var(--accent);
     text-decoration-thickness: 2.5px;
@@ -117,7 +117,7 @@ p a {
 .dateprefix {
     display: inline-block;
     min-width: 3.5rem;
-    text-align: right;
+    text-align: end;
     color: var(--foreground-light);
 }
 
