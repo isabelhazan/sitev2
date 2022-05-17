@@ -26,7 +26,7 @@ This ability to observe without accepting is a direct reflection of inner peace.
 
 >“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment”
 
-- Ralph Waldo Emerson </br>
+-- Ralph Waldo Emerson </br>
 
 In a time where everyone can share their input on our life choices, instead of thinking deeply about what we want for ourselves, we depend on others for their counsel. This dependence on others’ approval chips away at our independence and self-confidence, eventually leading to an inner instability which drives us to seek external validation for absolutely everything.
 
@@ -34,7 +34,7 @@ What should I get for lunch? Which university should I pick? What electives shou
 
 >“What could I say to you that would be of value, except that perhaps you seek too much, that as a result of your seeking, you cannot find.”
 
-- Herman Hesse, Siddhartha </br>
+-- Herman Hesse, Siddhartha </br>
 
 We have no clue what’s right for us anymore, because our inner voice is being drowned out by the noise of everyone else’s opinions. This cycle continues until we step away and actively cultivate inner trust. Like anything worth doing, cultivating trust in our intuition takes intention and practice, but it’s one of the best investments we can make in our happiness.
 
@@ -60,13 +60,13 @@ Write about the things which weigh on you. Is it your career path? Body image? L
 
 >“Absorb what is useful, discard what is not, add what is uniquely your own.”
 
-- Bruce Lee </br>
+-- Bruce Lee </br>
 
 When you don’t know what you think, it feels like everyone else knows more than you— so you trust them instead of looking inwards. This prevents you from absorbing what is useful, discarding what is not, and makes it impossible to add anything that is uniquely your own. You simply end up absorbing everything. And when you’re absorbing everything from many different sources, you end up so confused and overwhelmed, you become even less certain of the “right” answer than you were before you sought out counsel!
 
 Jordan Peterson prescribes writing to everyone. He says:
 
->“The best thing you can do is teach people how to write, because there is no difference between writing and thinking.” — Jordan Peterson 
+>“The best thing you can do is teach people how to write, because there is no difference between writing and thinking.” 
 
 He goes on to explain why writing is so important, and how writing can make you “deadly” if you do it regularly enough:
 
@@ -80,7 +80,7 @@ Well, why are you writing?
 Because you need the grade.
 
 It’s like — NO! You need to learn to think. Because thinking makes you act effectively in the world. Thinking makes you win the battles you under-take — and those could be battles for good things!
-If you can think and speak and write, you are absolutely deadly. Nothing can get in your way. So, that’s why you learn how to write. And I can’t believe people aren’t just told that. It’s the most powerful weapon you can possibly provide someone with.” — Jordan Peterson </br>
+If you can think and speak and write, you are absolutely deadly. Nothing can get in your way. So, that’s why you learn how to write. And I can’t believe people aren’t just told that. It’s the most powerful weapon you can possibly provide someone with.” </br>
 
 Whether you agree with Jordan Peterson’s ideas or not, one thing we can all agree on is that he believes in what he says. The man is one of the most confident and effective speakers when it comes to expressing what he is thinking. And that’s because he writes. He takes the time to distill his thoughts so carefully that external counsel and efforts to sway him are almost entirely futile unless they have provided a more logical and sound argument than he believes he has. He trusts himself and his own opinion because he develops his opinions through deep thought and independent reflection. Again, the important point here is not the content of his ideas, but the confidence with which he expresses them. Consider the magnitude of the messages we could put into the world if we focused on refining our thoughts as ruthlessly as Jordan Peterson has refined his.
 
@@ -96,7 +96,7 @@ A palliative care nurse who spent 20 years taking care of people as they were dy
 
 >I wish I’d had the courage to live a life true to myself, not the life others expected of me.
 
-- Top Five Regrets of the Dying, The Guardian </br>
+-- Top Five Regrets of the Dying, The Guardian </br>
 
 To be happy, you need to make decisions as the most authentic version of yourself.
 
@@ -108,11 +108,12 @@ Find happiness on the other end.
 
 >“This above all: To thine own self, be true.”
 
-- Shakespeare </br>
+-- Shakespeare </br>
 
 True fulfillment can only come from decisions and actions which are true to you. This is probably why not living a life true to oneself is the #1 biggest regret people have when they’re about to die. No mater how good the advice is, if it’s not aligned with your thoughts, beliefs, intuition and values, then it won’t give you the satisfaction and peace you’re trying to get from it.
 
->“If you find and discover your authentic self, it has the biggest payoff of all. There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but are pretending to be.” — Neil Pasricha, The Happiness Equation </br>
+>“If you find and discover your authentic self, it has the biggest payoff of all. There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but are pretending to be.” 
+-- Neil Pasricha, The Happiness Equation </br>
 
 Decisions made by us and no one else often lead to the best outcomes. So ditch the pros and cons lists, stop looking online for answers, scrap the advice and insight you’ve gotten on whatever is weighing on you, and think for yourself:
 

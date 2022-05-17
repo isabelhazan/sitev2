@@ -4,9 +4,6 @@ title: "what the greats can teach us about greatness"
 date: "2019-07-03"
 draft: false
 ---
-
-
-### What the Greats Can Teach Us About Greatness
 #### They all share the same philosophy on mindset.
 
 The people who make it are the people who think they can.
@@ -33,10 +30,10 @@ Getting better, but wasn’t getting younger,
 And all that time could make the most confident guy wonder,
 But never doubt it or allow that stuff to phase me yo,
 Just switch my thoughts up like the stations on the radio.
-Now I am…” </br>
+Now I am…”
 
 
-J. Cole circa 2006, in a freestyle video he made wearing a shirt that says “Produce for Jay-Z or Die Trying.” He was signed by Jay-Z’s Roc Nation 3 years later.
+ - J. Cole circa 2006, in a freestyle video he made wearing a shirt that says “Produce for Jay-Z or Die Trying.” He was signed by Jay-Z’s Roc Nation 3 years later.  </br>
 
 Muhammad Ali, famous for his rock solid mindset and self-confidence, preached the importance of self-belief more than anyone. He said:
 
@@ -45,7 +42,6 @@ Muhammad Ali, famous for his rock solid mindset and self-confidence, preached th
 -Muhammad Ali </br>
 
 
-Muhammad Ali vs. Sonny Liston, 1965. Photo by Neil Lefer.
 Mindset is indisputably powerful. If these quotes show us anything, it’s that to achieve greatness, you need to believe you can be the greatest.
 
 The connection between our thoughts and our outcomes is something I learned at around age 10 as a gymnast. Our coaches got us into the habit of lying down before our balance beam routines at competitions, closing our eyes and imagining ourselves completing a perfect beam routine, sticking it and being the greatest we could possibly be in that moment.

@@ -4,7 +4,6 @@ description: "grit, entrepreneurship, asia"
 date: "2019-06-23"
 draft: false
 --- 
-### Re-defining culture shock
 #### How to experience adventure and adversity in an objectively comfortable environment
 
 Some background: I’m completing an internship in Singapore as one of the 15 Cansbridge Fellows selected to complete a summer work term in Asia for the summer of 2019. The Cansbridge Fellowship is a Canadian-founded organization with the goal of equipping high-impact, entrepreneurially minded Canadian students with a global mindset and the unique skills which come from pursuing experiences outside of your comfort zone. Each of the fellows is writing 3 blog posts spaced out evenly throughout their internships about their unique experiences in Asia. This is blog Post 2 out of 3 for me. Read part 1 [here](content/posts/decision-making.md).
