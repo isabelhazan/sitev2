@@ -1,7 +1,7 @@
 ---
 title: "the ambition paradox"
 description: "why conventional ambition won't get you unconventional success"
-date: "2019-01-04"
+date: "2019-10-04"
 draft: false
 
 ---

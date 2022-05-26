@@ -7,6 +7,7 @@ draft: false
 ---
 
 #### And why the greatest teachers are often the least obvious ones
+![croissant and coffee](https://miro.medium.com/max/700/1%2ATxlJJwAXvclLnnmIqrh0Iw.jpeg)
 
 ### Stranger #1: “My top values are Freedom and Learning”
 
