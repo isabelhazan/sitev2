@@ -31,7 +31,7 @@ Mattie Larson, one of the gymnasts whom testified during Nassar’s trial, exper
 
 Sara Tank Ornelas, another elite gymnast who trained at the Karolyi national training camp as early as 1985, claimed that the girls were, “treated like a business plan.” She recalled her memories of the camp darkly, stating that “being hungry was a part of life.” She suffered 13 broken bones while training at the Karolyis’ ranch from ages 11 to 15.
 
-[domi](https://miro.medium.com/max/700/0%2A-6TZ0soPaLtGDT7a)
+![domi](https://miro.medium.com/max/700/0%2A-6TZ0soPaLtGDT7a)
 
 _Domonique Moceanu, competing on the American team at age 14 in the 1996 Olympics._
 
