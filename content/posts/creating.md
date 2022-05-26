@@ -1,7 +1,7 @@
 ---
 title: "now is the time to start creating"
 description: "the creator economy is taking over, so why not join it?"
-date: "2020-06-28"
+date: "2021-03-25"
 draft: false
 ---
 #### the creator economy is taking over, so why not join it?
@@ -16,7 +16,6 @@ We’re living in an age that is redefining what it means to be “smart”. In 
 {{< twitter_simple 1364375257050677249 >}}
 
 </br>
-
 Today, the “smart” people in society are the ones realizing that by sharing their life/insight/talent/art online, building an audience, earning that audience’s trust and loyalty, and then monetizing that audience, they can create a pretty fantastic and extremely flexible livelihood. The truly smart people of today are the ones leading the way in the creator economy.
 
 {{< twitter_simple 1233959744462819329 >}}
