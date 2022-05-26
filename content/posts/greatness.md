@@ -16,8 +16,9 @@ In a recent interview after Game 1 of the 2019 NBA Finals, Draymond Green of the
 
 — Draymond Green </br>
 
+![green](https://miro.medium.com/max/594/1%2ApYHwzSoyzwqsgZxD8wWYdA.jpeg)
+Draymond Green playing for Michigan State University, 2011. 
 
-Draymond Green playing for Michigan State University, 2011. Image: Zimbio
 J. Cole on the final track Last Call of his second mix-tape, the Warm Up, discusses his hunger for being the best:
 
 >“Look, all he wanted was a record deal, so when he got it he just faded,
@@ -30,10 +31,11 @@ Getting better, but wasn’t getting younger,
 And all that time could make the most confident guy wonder,
 But never doubt it or allow that stuff to phase me yo,
 Just switch my thoughts up like the stations on the radio.
-Now I am…”
+Now I am…”</br>
 
-
- - J. Cole circa 2006, in a freestyle video he made wearing a shirt that says “Produce for Jay-Z or Die Trying.” He was signed by Jay-Z’s Roc Nation 3 years later.  </br>
+![j cole](https://miro.medium.com/max/700/1%2AB0l_39Lr6TSH-Bdn9jwT3A.png)
+ 
+ J. Cole circa 2006, in a freestyle video he made wearing a shirt that says “Produce for Jay-Z or Die Trying.” He was signed by Jay-Z’s Roc Nation 3 years later. 
 
 Muhammad Ali, famous for his rock solid mindset and self-confidence, preached the importance of self-belief more than anyone. He said:
 
@@ -41,6 +43,8 @@ Muhammad Ali, famous for his rock solid mindset and self-confidence, preached th
 
 -Muhammad Ali </br>
 
+![ali](https://miro.medium.com/max/700/1%2AJkL4Lve1wOu53VRbFeWeLA.jpeg)
+Muhammad Ali vs. Sonny Liston, 1965. Photo by Neil Lefer.
 
 Mindset is indisputably powerful. If these quotes show us anything, it’s that to achieve greatness, you need to believe you can be the greatest.
 
@@ -56,8 +60,9 @@ The reason that so few make it is because so few are able to hold on to this gre
 
 When we were building endurance as little gymnasts, we used to have to do something called cardio floor routines (they were just as painful as they sound). For these routines, instead of doing our usual tumbling passes (which already demanded a remarkable amount of athletic endurance), our coaches would pause the music in the middle of our routines and we’d have to sprint across the floor 3–5 times, then immediately resume our routine, panting. Sometimes, our coaches would even have us do three of these burn-out routines in a row, no matter how tired we were. Why? Because to be the greatest we could be, we needed to develop the endurance to avoid burning out by the end of our routines. We needed the endurance to perform at the end of our routines just as powerfully, excitedly and purposefully as we did when we got into our starting position, waiting for the music to start. And cardio floor routines worked! Because when you train yourself to be an endurance athlete, the things that wear others out can’t touch you. And, similarly, when you train yourself to be an endurance thinker, you won’t get tired and quit right away or, worse, get lazy and slowly start to slack off without you noticing until you’ve ‘faded away’.
 
+![raisman](https://miro.medium.com/max/288/1%2A_VIS8I36tuk4E_T-2rCpLg.gif)
+Aly Raisman’s Olympic gold medal-winning floor routine in 2012. This is just one of her four tumbling passes in that routine. Endurance is not optional! 
 
-Aly Raisman’s Olympic gold medal-winning floor routine in 2012. This is just one of her four tumbling passes in that routine. Endurance is not optional! Source: GIPHY
 Ultimately, if you want to be the greatest at what you do, you must treat your mindset as if its your most important tool to get there. Sharpen it daily with visualization and positive psychology. Read about outliers in the fields you’re interested in. Ask people consistently excelling around you what they think about before they compete or perform. Find what keeps you in a good headspace and practice that daily.
 
 The quality and consistency of your thoughts will be the primary factor in determining how far you go. No one says it better than Ali himself:

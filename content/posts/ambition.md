@@ -7,6 +7,8 @@ draft: false
 ---
 #### Why conventional ambition won’t get you unconventional success
 
+![ladder](https://miro.medium.com/max/700/1%2Ape5E7z5cy1DsHylLEH_E3g.jpeg)
+
 >Ambition: the desire and determination to achieve success.
 
 — Oxford Dictionary</br>
