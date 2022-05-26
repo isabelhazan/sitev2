@@ -1,4 +1,3 @@
-
 ---
 title: "the ambition paradox"
 description: "why conventional ambition won't get you unconventional success"
