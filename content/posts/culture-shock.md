@@ -6,6 +6,9 @@ draft: false
 --- 
 #### How to experience adventure and adversity in an objectively comfortable environment
 
+![singapore](https://miro.medium.com/max/700/1%2AmiW4aUN_1VismFjjv2RJRA.jpeg)
+Mural in Chinatown, Singapore
+
 Some background: I’m completing an internship in Singapore as one of the 15 Cansbridge Fellows selected to complete a summer work term in Asia for the summer of 2019. The Cansbridge Fellowship is a Canadian-founded organization with the goal of equipping high-impact, entrepreneurially minded Canadian students with a global mindset and the unique skills which come from pursuing experiences outside of your comfort zone. Each of the fellows is writing 3 blog posts spaced out evenly throughout their internships about their unique experiences in Asia. This is blog Post 2 out of 3 for me. Read part 1 [here](content/posts/decision-making.md).
 
 ### The itch for more
@@ -28,6 +31,8 @@ Since this mindset shift, I’ve made it a habit to lean into what is known to b
 
 ### Singapore x the flinch
 One of my first Singapore x the flinch experiences happened the first time I decided to try the notorious Southeast Asian fruit Durian which some people love (don’t understand how), and some people despise (holla) — it all depends on how the flavour interacts with your unique set of taste buds (I’ve been told). This moment was the definition of the flinch as the smell of Durian is quite strong and distinct, and is known for smelling like rotten vegetables to most people (me). One could imagine that doesn’t exactly have you rushing to eat it, but alas, it’s a Southeast Asia must.
+
+
 
 Before taking that first bite I knew I had to lean into the flinch and go for it. And even after barely being able to stomach one full piece of the fruit, I was really glad I tried it. After that moment, I decided that as cliché as it was, I would regret the things I didn’t do more than the things I did do. So if I was ever feeling the flinch creep in, I had to lean in and go for it.
 

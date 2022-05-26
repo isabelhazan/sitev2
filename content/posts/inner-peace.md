@@ -7,6 +7,8 @@ draft: false
 ## Why inner peace comes before happiness
 #### And Gandhi’s secret to getting both.
 
+![thailand](https://miro.medium.com/max/700/1%2AOBgUO9_kF2pHimstn8WKRg.jpeg)
+
 >“For me, success is inner peace. That’s a good day for me.”
 - Denzel Washington </br>
 
