@@ -4,7 +4,6 @@ description: "social impact"
 date: "2019-02-27"
 draft: false
 ---
-### Lessons we can all learn from india
 
 
 My perspective on social entrepreneurship and the power of privilege evolved entirely after attending the Development Dialogue conference in Hubli, India a few weeks ago. Leaders from around the world gathered to discuss the conference's theme: Reimagining impact. The conference focused on looking at impact through a lens of social entrepreneurship, which is the use of start-ups and entrepreneurial energy to develop, fund and implement solutions to social, cultural, or environmental issues. While it's impossible to encapsulate all of the lessons I derived from my visit to India in anything short of a novel, I've summarized the main take-aways from my experience in this article.
