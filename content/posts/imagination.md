@@ -63,19 +63,19 @@ Many of our best ideas emerge while we are steeped in creative endeavours, losin
 It doesn't matter what it is that lights up your imagination - find your activity, and dive in.
 
 ### creative activities to explore:
-Photography
-Music (singing/playing an instrument)
-Making playlists
-Mood/vision board making
-Baking
-Cooking
-Knitting
-Beading
-Painting
-Pottery
-Writing
-Poetry
-Crafts (a quick google search will yield infinite ideas)
+- Photography
+- Music (singing/playing an instrument)
+- Making playlists
+- Mood/vision board making
+- Baking
+- Cooking
+- Knitting
+- Beading
+- Painting
+- Pottery
+- Writing
+- Poetry
+- Crafts (a quick google search will yield infinite ideas)
 
 #### my creative activity this week: mediocre doodling
 ![doodle](https://embed.filekitcdn.com/e/48UrZzMMRnoTkKZ2GaFEg4/r4DjxeNq7Yj2enFDYXaGEP/email)
