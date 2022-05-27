@@ -48,7 +48,9 @@ _Summary of the approach I use to re-calibrate towards cultivating alignment in 
 The first step to setting your aim is paying attention to what your life is like today. We need to take inventory of our lives to evaluate what is missing and what we’d like to pursue to get closer to our ideal life. This requires us to reflect on everything about our life.
 
 ### 1. Take inventory
+
 Some prompts for this reflection:
+
 - What is an average day in my life like?
 - What do I spend my time on?
 - What information am I consuming?
@@ -67,6 +69,7 @@ Be specific, clear, detailed. The purpose of this exercise is to take a complete
 Once you’ve determined the state of your life today, get clear on the key vectors you would like to optimize for in your life moving forward. There are infinite things we could optimize for in our life.
 
 Examples:
+
 - Money
 - Family
 - Familiarity

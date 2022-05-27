@@ -58,4 +58,22 @@ It’s time for our faithful journaling exercise. If you wish to participate, ge
 Then, write next to the activities who you tend to do those things with. You might find that with some of the 'becoming' activities, you may not have many people you do those things with, especially if you haven't started doing them yet. This will help demonstrate where you need more upper companions — those that will make those activities a more consistent part of your routine (ie. a book club, a workout buddy, etc)
 
 You might also find that there are some people that you might only partake in your ‘unbecoming’ activities with. These are the lower companions that 'co-sign' on your bad habits with you, making you feel like it is OK to do something you're trying to do less of.
+
 ![companions](https://embed.filekitcdn.com/e/48UrZzMMRnoTkKZ2GaFEg4/uTs6qwucRvoW8ciTXPJnNf/email)
+
+In reality, it is not so black and white. Unless you're in an extreme state (like alcoholism), there won't be many people who are purely upper or lower companions. Many will fall into both categories. But typically, your companions will skew one way.
+
+The awareness of who is on both sides of the spectrum is important, but it is not to say you should simply cut out lower companions. Rather, we should be aware of those that elevate us, helping us become a better version of ourselves, as well as those that make us feel comfortable sinking into a lower state of self.
+
+This exercise will help illuminate who you surround yourself with **most of the time**. We all know the classic adage, "you are the average of the 5 people you surround yourself with most" as well as "show me your friends and I’ll show you your future."
+
+These are obviously clichés. But they are clichés because they're true. A lot of conventional wisdom still is - at least the timeless stuff that doesn't have to do with career paths :).
+
+It's important to surround yourself with, on average, upper companions: the people that help you blossom, flourish, and become.
+
+These people make you feel good about yourself, and hold you to a high standard. These are the people you learn from. The ones who help you grow.
+
+While many of us think we are strong enough to be the best version of ourselves regardless of our environment, we mustn’t look farther than the story of Mahatma Gandhi to see that even the best and brightest among us are heavily influenced by our environment. And one of the most essential and powerful environmental levers we can pull on is who we surround ourselves with.
+
+Sometimes we need to make radical changes to evolve in the right direction. Identifying our upper companions and getting closer to them, as well as knowing when to lean away from lower companions, is part of that process.
+
