@@ -28,6 +28,7 @@ Setting aim is a prerequisite to living a life of alignment.
 There is a quote from Yogi Berra I think about often:
 
 >“If you don’t know where you’re going, you won’t get there.” </br>
+
 Imagine getting in a car and driving without having any idea where you’re going. With no sense of direction, your ultimate destination will be completely random. You leave the outcome of your journey up to utter chance.
 
 Most of us travel through life with at least some sense of direction in mind, though. Maybe we know we want to settle down around age X, buy a house, start a family, work in a field like Y. We have a high level idea of where we want to go, but we don’t have a clear destination.
