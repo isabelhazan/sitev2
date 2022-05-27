@@ -1,9 +1,10 @@
 ---
-title: "why everyone wishes they were still in college"
+title: "college nostalgia"
 description: "and how to live life like you still are"
 date: "2020-06-28"
 draft: false
 ---
+### why everyone wishes they were still in college
 #### and how to live life like you still are
 
 When you’re ushered into college after completing your high school degree, grinding to get into the program and school of your choice, and finally getting your chance to taste what is supposedly “the best four years of your life”, you are an unmolded pile of possibility. You don’t know what lies ahead for you. You essentially believe that you could do anything — because you can. And you haven’t yet faced enough reality for people to shake that belief out of you. You haven’t yet applied for plenty of jobs and gotten rejected, failed courses, felt lost, disliked what you’re studying, gotten into a career path which you hate but feel stuck in, and most importantly, you haven’t let your hope fade away.

@@ -1,9 +1,10 @@
 ---
-title: "what spending a week making a single loaf of sourdough taught me"
+title: "on sourdough & life"
 description: "we're not used to being patient"
 date: "2020-05-17"
 draft: false
 ---
+### what spending a week making a single loaf of sourdough taught me
 #### we're not used to being patient
 ![cover](https://miro.medium.com/max/700/1%2Aiwz5pzqQi7fiUSX-_SMCqw.jpeg)
 I am presently soaring with satisfaction after eating a delicious, warm, soft-on-the-inside-crunchy-on-the-outside slice of homemade sourdough dripping in butter. I have honestly never been prouder of a single creation I’ve made in the kitchen to date. And in the process — I noticed a few life lessons which could only be illuminated by the laborious, intensive and multi-day process of making a proper homemade sourdough.

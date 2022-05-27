@@ -1,6 +1,6 @@
 +++
 author = "Isabel"
-title = "walking the line of doing and being"
+title = "doing vs being"
 date = "2018-01-23"
 description = "inner peace and productivity"
 tags = [
@@ -10,7 +10,7 @@ tags = [
 ]
 
 +++
-
+### walking the line of doing and being
 We can’t sprint forever. We have to catch our breath.
 
 

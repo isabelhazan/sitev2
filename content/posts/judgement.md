@@ -1,5 +1,5 @@
 ---
-title: "why we judge ourselves so harshly"
+title: "why we judge ourselves"
 description: "and how to re-think our internal dialogue"
 date: "2020-02-09"
 draft: false

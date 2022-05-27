@@ -5,7 +5,7 @@ date: "2020-02-25"
 draft: false
 
 ---
-
+### how to avoid burnout
 #### identify your energy boosters, then make them your top priority
 
 What happens when your schedule gets busier and the number of hours in your day remains the same?

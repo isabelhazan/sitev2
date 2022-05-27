@@ -1,5 +1,5 @@
 ---
-title: "why we're failing at protecting young female athletes"
+title: "why we're failing female athletes"
 description: "the problem with female athletics"
 date: "2019-11-12"
 draft: false

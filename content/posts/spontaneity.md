@@ -1,5 +1,5 @@
 ---
-title: "how to balance structure and spontaneity"
+title: "balancing structure and spontaneity"
 description: "structure vs spontaneity"
 date: "2018-09-17"
 draft: false

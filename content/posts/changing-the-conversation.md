@@ -1,12 +1,12 @@
 ---
-title: "changing the conversation: what is mental health?"
+title: "mental health"
 description: "mental health"
 date: "2018-06-21"
 draft: false
 
 ---
-
 ## changing the conversation: what is mental health?
+
 Society was recently ripped wide open yet again with two more tragic losses of individuals who had a major impact on the lives of many – Anthony Bourdain and Kate Spade. These are just two examples of a much larger problem. This might come as a shock to many, but suicide is the second leading cause of death for individuals ages 15-34 in North America. This alarming statistic, among many others, has sent my mind in a swirl of curiosity as to why mental illness and suicide rates continue to grow, despite the readily available resources and movements working tirelessly to prevent those suffering from reaching these extremes. With all these efforts to dissipate the stigma surrounding mental illness, the needle still seems reluctant to move in the right direction. 
 
 My question is: Why?

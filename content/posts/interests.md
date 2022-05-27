@@ -1,5 +1,5 @@
 ---
-title: "your interests are invaluable"
+title: "interests are invaluable"
 description: "why and how to pay attention to your interests"
 date: "2021-01-10"
 draft: false

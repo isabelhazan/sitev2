@@ -1,9 +1,10 @@
 
 ---
-title: "what the greats can teach us about greatness"
+title: "the greats"
 date: "2019-07-03"
 draft: false
 ---
+### what the rgeats can teach us about greatness
 #### They all share the same philosophy on mindset.
 
 The people who make it are the people who think they can.

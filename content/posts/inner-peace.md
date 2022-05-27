@@ -1,5 +1,5 @@
 ---
-title: "why inner peace comes before happiness"
+title: "inner peace comes before happiness"
 description: "inner peace, spirituality"
 date: "2019-07-08"
 draft: false

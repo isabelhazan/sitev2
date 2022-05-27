@@ -1,11 +1,11 @@
 ---
-title: "the power of decision-making: my journey finding an internship in asia"
+title: "finding an internship in asia"
 description: "grit, entrepreneurship, asia"
 date: "2019-05-27"
 draft: false
 ---
 
-
+### the power of decision-making
 So I’m here. I’m finally here. Singapore, Singapore (yes, it’s a city and a country). May 23rd, 2019.
 
 It’s taken hundreds of emails, 2 visa applications, 3 internship offers, plenty of mentorship, 24 hours of travel, 3 carry on bags, and lots of sweat to get here, but I’m here.

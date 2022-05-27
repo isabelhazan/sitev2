@@ -1,5 +1,5 @@
 ---
-title: "do i believe in karma?"
+title: "karma"
 description: "karma, kindness, friends"
 date: "2018-07-17"
 draft: false

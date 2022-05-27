@@ -1,5 +1,5 @@
 ---
-title: "embracing life's impermanence"
+title: "embracing impermanence"
 description: "fresh flowers "
 date: "2021-12-03"
 draft: false

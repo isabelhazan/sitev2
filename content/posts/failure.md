@@ -1,6 +1,6 @@
 ---
-title: "what i learned from my engineering degree"
-description: "the importance of failure and challenge"
+title: "my top lesson from engineering"
+description: "failure and challenge"
 date: "2019-10-28"
 draft: false
 

@@ -1,5 +1,5 @@
 ---
-title: "the best books I read in 2019"
+title: "books of 2019"
 description: "they seemed to have a constant theme"
 date: "2020-01-19"
 draft: false

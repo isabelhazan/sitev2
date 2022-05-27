@@ -1,5 +1,5 @@
 ---
-title: "how our environment makes decisions for us"
+title: "making decisions"
 description: "the three biases that control our lives"
 date: "2020-04-23"
 draft: false

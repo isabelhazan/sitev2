@@ -1,5 +1,5 @@
 ---
-title: "lessons learned from competitive gymnastics"
+title: "lessons from competitive gymnastics"
 description: "discipline, grit, focus"
 date: "2019-02-03"
 draft: false

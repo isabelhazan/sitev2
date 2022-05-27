@@ -1,10 +1,10 @@
 ---
-title: "why i stopped robbing myself of the small joys in life"
+title: "embracing the small joys in life"
 description: "lessons learned from over-doing it on self improvement"
 date: "2020-04-29"
 draft: false
 ---
-
+### why i stopped robbing myself of the small joys in life
 #### starting with adding cream to my coffee
 
 ![cream](https://miro.medium.com/max/700/1%2A3ooOyjtiET7BMY-QnWvd8Q.jpeg)

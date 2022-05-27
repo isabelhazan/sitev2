@@ -1,5 +1,5 @@
 ---
-title: "make it your mission to not conform"
+title: "resisting conformity"
 description: "growth, self actualization and identity"
 date: "2018-07-02"
 draft: false

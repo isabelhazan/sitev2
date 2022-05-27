@@ -1,10 +1,11 @@
 ---
-title: "the weird thing about growing up"
+title: "growing up"
 description: "and how to re-think our internal dialogue"
 date: "2020-02-09"
 draft: false
 
 ---
+### the weird thing about growing up
 #### it never feels like it’s really happening
 ![bubbles](https://miro.medium.com/max/700/1%2A1eazvwVdGAkNW4L6b-FLPA.jpeg)
 

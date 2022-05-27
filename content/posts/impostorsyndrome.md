@@ -1,9 +1,10 @@
 ---
-title: "why we should pursue impostor syndrome"
+title: "on pursuing impostor syndrome"
 description: "the signals mean we're headed somewhere worthwhile"
 date: "2022-02-17"
 draft: false
 ---
+### why we should pursue impostor syndrome
 #### Impostor syndrome haunts us all
 Every time we walk into a room of ambitious, smart, talented people, a small whisper inside us says: _what the hell are you doing here?
 _

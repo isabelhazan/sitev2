@@ -1,5 +1,5 @@
 ---
-title: "lessons we can all learn from india"
+title: "lessons from india"
 description: "social impact"
 date: "2019-02-27"
 draft: false

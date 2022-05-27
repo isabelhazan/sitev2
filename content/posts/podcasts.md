@@ -1,5 +1,5 @@
 ---
-title: "positive additions to my life in 2017: podcasts"
+title: "podcasts"
 description: "What we miss out on by trying to be perfect"
 date: "2017-11-06"
 draft: false
