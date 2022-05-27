@@ -1,6 +1,6 @@
 
 ---
-title: "the greats"
+title: "what the greats can teach us about greatness"
 date: "2019-07-03"
 draft: false
 ---

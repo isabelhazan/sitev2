@@ -1,5 +1,5 @@
 ---
-title: "friends beyond circumstance"
+title: "making friends beyond circumstance"
 description: "finding the friendships you truly want to nurture"
 date: "2022-02-07"
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "mental health"
+title: "what is mental health?"
 description: "mental health"
 date: "2018-06-21"
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "on pursuing impostor syndrome"
+title: "pursuing impostor syndrome"
 description: "the signals mean we're headed somewhere worthwhile"
 date: "2022-02-17"
 draft: false
