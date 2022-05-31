@@ -1,5 +1,5 @@
 ---
-title: "embracing the small joys in life"
+title: "why i stopped robbing myself of the small joys in life"
 description: "lessons learned from over-doing it on self improvement"
 date: "2020-04-29"
 draft: false

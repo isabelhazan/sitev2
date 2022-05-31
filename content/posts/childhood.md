@@ -1,5 +1,5 @@
 ---
-title: "growing up"
+title: "the weird thing about growing up"
 description: "and how to re-think our internal dialogue"
 date: "2020-02-09"
 draft: false
