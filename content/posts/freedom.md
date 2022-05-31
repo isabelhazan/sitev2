@@ -8,7 +8,7 @@ draft: false
 
 When we’re young, it feels like it will be that way forever. 
 
-Like we will laugh hard with our friends half drunk in bars, pulling our glasses off of sticky counters, scrutinizing over Uber prices to get home, while trying to gauge whether our friends _also_ want to get fries to dull the hangover we will wake up with the next day. 
+It feels like forever that we we will laugh hard with our friends half drunk in bars, pulling our glasses off of sticky counters, scrutinizing over Uber prices to get home, while trying to gauge whether our friends _also_ want to get fries to dull the hangover we will wake up with the next day. 
 
 It feels like forever that we will be able to send a spontaneous text saying “want to go to a cafe and hang out all day? or walk around? or shop? or come over and do nothing?" 
 
@@ -16,7 +16,9 @@ It feels like forever that we’ll be able to get that same text and say yes to 
 
 It feels like forever that we will have the freedom to do what we want in the present, with the seemingly unurgent voice occasionally nagging at us, wondering if we’re headed exactly where we want to go… 
 
-The truth is when you're young, it feels like you’ll be young forever. Like you’ll have options and freedom and plenty of future ahead, forever. This is true even for the intellectual ones, the self aware ones, the ones who “think ahead”. There is no way to possibly comprehend the process of getting older, of releasing a small part of your potential each day. And yet it is happening. _Without our consent, time is going by._
+The truth is when we're young, it feels like we’ll be young forever. Like we will have options and freedom and plenty of future ahead, forever. This is true even for the intellectual ones among us, the self aware ones, the ones who “think ahead”. One thing that seems consistent at any age is that processing the passage of time feels incomprehensible. There is no way to properly understand or anticipate the process of getting older, of releasing a small part of your potential each day. And yet it is happening. _Without our consent, time is going by._ 
+
+So, instead of trying to "figure out" time, we should focus on seizing the present.
 
 Each day is one small tick on our life’s clock, the hand moving steadily, consistently, patiently but persistently around the circle. 
 
