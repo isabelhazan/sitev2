@@ -2,7 +2,10 @@
 title: "home"
 ---
 
-# Welcome to my site
+# Who do I write for?
+I write for high potential people that want to actualize their potential in a direction that is _true to them_.
+
+## Why do I write?
 This site mostly acts as a library of my thoughts. I write to keep myself humble, realize how often I am wrong, and to remind myself how frequently lessons in life repeat themselves until I internalize them. You can read more about me and why I write [here](https://www.isabelhazan.com/about/) 
 
 ### Where to find more of me
