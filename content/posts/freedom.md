@@ -8,7 +8,7 @@ draft: false
 
 When we’re young, it feels like it will be that way forever. 
 
-It feels like forever that we we will laugh hard with our friends half drunk in bars, pulling glasses off of sticky counters, scrutinizing over Uber prices to get home, while gauging whether our friends _also_ want to get fries to dull the hangover we will wake up with the next day. 
+It feels like forever that we will be laughing hard with our friends half drunk in bars, pulling glasses off of sticky counters, scrutinizing over Uber prices to get home, while gauging whether our friends _also_ want to get fries to dull the hangover we will wake up with the next day. 
 
 It feels like forever that we will be able to send a spontaneous text saying _“want to go to a café and hang out all day? or walk around? or shop? or come over and do nothing?"_
 
@@ -16,41 +16,45 @@ It feels like forever that we’ll be able to get that same text and say yes to 
 
 It feels like forever that we will have the freedom to do what we want in the present, with the seemingly unurgent voice occasionally nagging at us, wondering if we’re headed  where we genuinely want to go… 
 
-The truth is that when we're young, it feels like we’ll be young forever. Like we will have options and freedom and plenty of future ahead, forever. This is true even for the intellectual ones among us, the self aware ones, the ones who “think ahead”. One thing that seems consistent at any age is that processing the passage of time feels incomprehensible. There is no way to properly understand or anticipate the process of getting older, of releasing a small part of your potential each day. And yet it is happening. _Without our consent, time is going by._ 
+The truth is that when we're young, it feels like we’ll be young forever. Like we will have options and freedom and plenty of future ahead, forever. This is true even for the intellectual ones among us, the self aware ones, the ones who “think ahead”. One thing that seems consistent at any age is that processing the passage of time feels incomprehensible. There is no way to properly understand or anticipate the process of getting older, of releasing a small part of your potential each day. And yet it is happening. Without our consent, time is going by.
 
-So, instead of trying to "figure out" time, perhaps we should focus on seizing the present. Of doing what we want to do "one day", today.
+So, instead of trying to "figure out" time, perhaps we should focus on seizing the present. On doing what we want to do "one day", today.
 
 Each day is one small tick on our life’s clock, the hand moving steadily, consistently, patiently but persistently around the circle. 
 
-It feels like forever that we will have the ability to decide what it is we want to do — _really do_ — not the thing we’re doing that we kind-of-maybe-like, but “aren’t  sure if we'll do forever”. 
+It feels like forever that we will have the ability to decide what it is that we want to do — _really do_ — not the thing we’re doing that we kind-of-like, but “aren’t  sure if it's the thing we'd do forever”. 
 
 It feels like forever that we will be able to ponder, to wonder, to remain undecided. 
 
 But it's not forever. 
 
-There isn’t any day you have to decide by. No teacher that’s going to email you to say you’re behind or you’re going to fail if you don’t do this work. No parent over your shoulder telling you to do it so you can support your family one day. 
+There isn’t any day that you have to decide by. No teacher that’s going to email you to say you’re behind or you’re going to fail if you don’t do this work. No parent over your shoulder telling you to do it so you can support your family one day. 
 
-There is no one. No one but you that can determine the trajectory of your own life. The True Trajectory: where to go when you’re listening to _you_, and no one else. 
+There is no one. No one but you that can determine the trajectory of your own life. The True Trajectory: where you would go if you were only listening to only _you_, and no one else. 
 
-No one will give you a deadline or a road map or an outline of how to figure out the Assignment of your own life. Only you can do that; only you can harness the discipline, the urgency, and the drive to really figure out what it is that you want. Only you can be truly honest with yourself. 
+No one will give you a deadline or a road map or an outline for how to figure out the Assignment of your own life. Only you can do that; only you can harness the discipline, the urgency, and the drive to really figure out what it is that you want. Only you can be truly honest with yourself. 
 
 Only you can look at that hand ticking and decide when to  ramp things up — when to start being you, embracing the parts of you that you often dull to "fit in" or "stay on the right path."
 
-And hey, being honest with ourselves isn't easy. No one tells us how to do it. In fact, we're taught more so how to be dishonest with ourselves, how to look away from our Truth, from the person we really want to be, from the things we really want to do, in order to fulfill some societal vision of who we think we _should_ be. We are trained to look at ourselves through the eys of others. To always seek approval, validation, claps and nods that we are on the right path, that we're doing "the Right Thing." 
+And hey, being honest with ourselves isn't easy. No one tells us how to do it. In fact, we're better taught how to be dishonest with ourselves, how to look away from our Truth, to ignore the thought of the person we really want to be, to numb ourselves from the pull to the things we really want to do, in order to fulfill some societal vision of who we _should_ be. We are trained to look at ourselves through the eys of others. To always seek approval, validation, claps and nods that we are on the right path, that we're doing the Right Thing.
 
-So, yeah, untangling the stream of decisions we've made in search of approval is tough! It's complicated. It requires deep thought and introspection, because the things we really want to do, determining and following our True Trajectory, is buried so deeply inside us, under layers and layers of approval-seeking tissue that we've built up to numb ourselves from this part of ourselves. Isn't that bizarre? How confronting it is to get in touch with and access the truest versions of ourselves? That we're more comfortable being who society wants us to be than who we really are?
+So, yeah, untangling the stream of decisions we make in search of approval is tough! It's complicated. It requires deep thought and introspection, because the things we really want to do, determining and following our True Trajectory, is buried so deeply inside us, under layers and layers of approval-seeking tissue that we've built up to numb ourselves from this part of ourselves. 
 
-It is genuinely astounding to think about how much personal responsibility we need to take to actually live the life we want. It never ceases to amaze me how hard I have to work to figure out what it is that I am doing to get the approval of others, to pursue what I've been told to value, vs. what I value, as an individual. Even thinking of one act we have done purely for ourselves, that ahs been purely self directed, can be a challenge. 
+It's incredibly confronting to access the true versions of ourselves. The version of ourselves that exists in absence of the desire to please others. Isn't it bizzare that we're more comfortable being who society wants us to be than who we really are? We know ourselves better in the eyes of the external world (always acutely aware of how our actions will be 'perceived'), than we know ourselves from our internal perspective (what do _we think_ of who we're becoming? Is this the person we really want to be? Do we even know what that looks like?).
+
+It is astounding to think about how much personal responsibility we need to take to actually live the life we want. It never ceases to amaze me how hard I have to work to figure out what it is that I am doing to get the approval of others, pursuing what I've been told to value, vs. what I am doing that stems from me, from what I value, as an individual. Even thinking of one act that has been purely self directed (for ourselves and no one else) can be a challenge. 
 
 I often think about this excerpt from one of my favourite articles of all time, [_19 Great Truths My Grandmother Told Me on Her 80th Birthday_](https://www.marcandangel.com/2022/01/18/19-great-truths-my-grandmother-told-me-on-her-90th-birthday/):
 
 >**There are thousands of people who live their entire lives on the default settings, never realizing they can customize everything.** 
 – Don’t settle for the default settings in life. Find your loves, your talents, your passions, and embrace them. Don’t hide behind other people’s decisions. Don’t let others tell you what you want. Design YOUR journey every step of the way! The life you create from doing something that moves you is far better than the life you get from sitting around wishing you were doing it.</br>
 
-Most people live their whole life on default settings! While at first glance this sounds surprising, it also makes complete sense. Society isn't designed to have everyone think independently - it would break! So it's essential to remove any expectation of the world encouraging you to do this work. If you're lucky, maybe there's a person or two in your life that see something special in you, and encourages to follow your own path, to trust in your gifts. But many don't even have this. The only thing we all have - for certain - is ourselves. It's the only thing we can rely on, and the only tool that we can activate, any time we want. 
+Most people live their whole life on default settings! While at first glance this feels surprising, it also makes complete sense. Society isn't designed to have everyone think independently - it would break! So it's essential to remove any expectation of the world encouraging you to do this work. If you're lucky, maybe there's a person or two in your life that see something special in you, and encourages to follow your own path, to trust in your gifts. But many don't even have this. The only thing we all have - for certain - is ourselves. It's the one constant in our lives we can rely on, and the only tool that we can activate, any time we want. 
 
 
-And sorting this our is the the most important type of thinking we can do. Because youth isn't forever. This period consisting of little external responsibility (no family, kids, mortgages yet) and the opportunity for tremendous personal agency is dwindling, with each passing tick of our life's clock. 
+And sorting our own truth out is the the most important type of thinking we can do. Figuring out what the North Star of our live that we want to work towards, is essential. We need to know where we're aiming, because otherwise, we have no chance of getting there. Society is working over-time to keep us in line, to reduce our critical thinking about our path, and always dangle another reward in front of us to distract us from the inner work of discovering who we are, in the absence of the societal gaze cast upon us. 
+
+Because youth isn't forever. This period consisting of little external responsibility (no family, kids, mortgages yet) and the opportunity for tremendous personal agency is dwindling, with each passing tick of our life's clock. 
 
 There is no better time to begin being honest with ourselves than today. And finding that nugget of truth inside us - getting a window into who really are - will take time, effort, discipline, _pain_, even. But it will be worth it, because what greater success is there than living a life that is true to you? 
 
