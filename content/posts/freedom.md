@@ -4,6 +4,8 @@ description: "don't waste it"
 date: "2022-05-31"
 draft: false
 ---
+### seize freedom when it is most accessible
+
 When we’re young, it feels like it will be that way forever. 
 
 Like we will laugh hard with our friends half drunk in bars, pulling our glasses off of sticky counters, scrutinizing over Uber prices to get home, while trying to gauge whether our friends _also_ want to get fries to dull the hangover we will wake up with the next day. 
