@@ -4,29 +4,29 @@ description: "don't waste it"
 date: "2022-05-31"
 draft: false
 ---
-### seize freedom when it is most accessible
+## seize freedom when it's most accessible to you
 
 When we’re young, it feels like it will be that way forever. 
 
-It feels like forever that we we will laugh hard with our friends half drunk in bars, pulling our glasses off of sticky counters, scrutinizing over Uber prices to get home, while trying to gauge whether our friends _also_ want to get fries to dull the hangover we will wake up with the next day. 
+It feels like forever that we we will laugh hard with our friends half drunk in bars, pulling glasses off of sticky counters, scrutinizing over Uber prices to get home, while gauging whether our friends _also_ want to get fries to dull the hangover we will wake up with the next day. 
 
-It feels like forever that we will be able to send a spontaneous text saying “want to go to a cafe and hang out all day? or walk around? or shop? or come over and do nothing?" 
+It feels like forever that we will be able to send a spontaneous text saying _“want to go to a café and hang out all day? or walk around? or shop? or come over and do nothing?"_
 
 It feels like forever that we’ll be able to get that same text and say yes to it.
 
-It feels like forever that we will have the freedom to do what we want in the present, with the seemingly unurgent voice occasionally nagging at us, wondering if we’re headed exactly where we want to go… 
+It feels like forever that we will have the freedom to do what we want in the present, with the seemingly unurgent voice occasionally nagging at us, wondering if we’re headed  where we genuinely want to go… 
 
-The truth is when we're young, it feels like we’ll be young forever. Like we will have options and freedom and plenty of future ahead, forever. This is true even for the intellectual ones among us, the self aware ones, the ones who “think ahead”. One thing that seems consistent at any age is that processing the passage of time feels incomprehensible. There is no way to properly understand or anticipate the process of getting older, of releasing a small part of your potential each day. And yet it is happening. _Without our consent, time is going by._ 
+The truth is that when we're young, it feels like we’ll be young forever. Like we will have options and freedom and plenty of future ahead, forever. This is true even for the intellectual ones among us, the self aware ones, the ones who “think ahead”. One thing that seems consistent at any age is that processing the passage of time feels incomprehensible. There is no way to properly understand or anticipate the process of getting older, of releasing a small part of your potential each day. And yet it is happening. _Without our consent, time is going by._ 
 
-So, instead of trying to "figure out" time, we should focus on seizing the present.
+So, instead of trying to "figure out" time, perhaps we should focus on seizing the present. Of doing what we want to do "one day", today.
 
 Each day is one small tick on our life’s clock, the hand moving steadily, consistently, patiently but persistently around the circle. 
 
-It feels like forever that we will have the ability to decide what it is we want to do — _really do_ — not the thing we’re doing that we kind-of-maybe-like, but “aren’t  sure if we'd do this forever”. 
+It feels like forever that we will have the ability to decide what it is we want to do — _really do_ — not the thing we’re doing that we kind-of-maybe-like, but “aren’t  sure if we'll do forever”. 
 
 It feels like forever that we will be able to ponder, to wonder, to remain undecided. 
 
-But it isn’t. 
+But it's not forever. 
 
 There isn’t any day you have to decide by. No teacher that’s going to email you to say you’re behind or you’re going to fail if you don’t do this work. No parent over your shoulder telling you to do it so you can support your family one day. 
 
@@ -42,15 +42,15 @@ So, yeah, untangling the stream of decisions we've made in search of approval is
 
 It is genuinely astounding to think about how much personal responsibility we need to take to actually live the life we want. It never ceases to amaze me how hard I have to work to figure out what it is that I am doing to get the approval of others, to pursue what I've been told to value, vs. what I value, as an individual. Even thinking of one act we have done purely for ourselves, that ahs been purely self directed, can be a challenge. 
 
-I often think about this excerpt from one of my favourite articles of all time [_19 Great Truths My Grandmother Told Me on Her 80th Birthday_](https://www.marcandangel.com/2022/01/18/19-great-truths-my-grandmother-told-me-on-her-90th-birthday/):
+I often think about this excerpt from one of my favourite articles of all time, [_19 Great Truths My Grandmother Told Me on Her 80th Birthday_](https://www.marcandangel.com/2022/01/18/19-great-truths-my-grandmother-told-me-on-her-90th-birthday/):
 
 >**There are thousands of people who live their entire lives on the default settings, never realizing they can customize everything.** 
 – Don’t settle for the default settings in life. Find your loves, your talents, your passions, and embrace them. Don’t hide behind other people’s decisions. Don’t let others tell you what you want. Design YOUR journey every step of the way! The life you create from doing something that moves you is far better than the life you get from sitting around wishing you were doing it.</br>
 
-Most people live their whole life on default settings! While at first glance this sounds surprising, it also makes complete sense. Society isn't designed to have everyone think independently - it would break! So it's essential to remove any expectation of the world encouraging you to do this work. If you're lucky, maybe there's a person or two in your life that sees something special in you, and has encouraged to follow your own path, to trust in your gifts. But many don't even have this. The only thing we all have - for certain - is ourselves. It's the only thing we can rely on, and the only tool we can activate, any time we want. 
+Most people live their whole life on default settings! While at first glance this sounds surprising, it also makes complete sense. Society isn't designed to have everyone think independently - it would break! So it's essential to remove any expectation of the world encouraging you to do this work. If you're lucky, maybe there's a person or two in your life that see something special in you, and encourages to follow your own path, to trust in your gifts. But many don't even have this. The only thing we all have - for certain - is ourselves. It's the only thing we can rely on, and the only tool that we can activate, any time we want. 
 
 
-But it is the most important thinking we can do. Because youth isn't forever. This period consisting of little (external) responsibility (no family, kids, mortgages yet)and the opportunity for tremendous personal agency is dwindling, with each passing tick of our clock. 
+And sorting this our is the the most important type of thinking we can do. Because youth isn't forever. This period consisting of little external responsibility (no family, kids, mortgages yet) and the opportunity for tremendous personal agency is dwindling, with each passing tick of our life's clock. 
 
 There is no better time to begin being honest with ourselves than today. And finding that nugget of truth inside us - getting a window into who really are - will take time, effort, discipline, _pain_, even. But it will be worth it, because what greater success is there than living a life that is true to you? 
 
