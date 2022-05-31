@@ -40,7 +40,8 @@ It is genuinely astounding to think about how much personal responsibility we ne
 
 I often think about this excerpt from one of my favourite articles of all time [_19 Great Truths My Grandmother Told Me on Her 80th Birthday_](https://www.marcandangel.com/2022/01/18/19-great-truths-my-grandmother-told-me-on-her-90th-birthday/):
 
-![trust yourself](defaultsettings.png)
+>**There are thousands of people who live their entire lives on the default settings, never realizing they can customize everything.** 
+– Don’t settle for the default settings in life. Find your loves, your talents, your passions, and embrace them. Don’t hide behind other people’s decisions. Don’t let others tell you what you want. Design YOUR journey every step of the way! The life you create from doing something that moves you is far better than the life you get from sitting around wishing you were doing it.</br>
 
 Most people live their whole life on default settings! While at first glance this sounds surprising, it also makes complete sense. Society isn't designed to have everyone think independently - it would break! So it's essential to remove any expectation of the world encouraging you to do this work. If you're lucky, maybe there's a person or two in your life that sees something special in you, and has encouraged to follow your own path, to trust in your gifts. But many don't even have this. The only thing we all have - for certain - is ourselves. It's the only thing we can rely on, and the only tool we can activate, any time we want. 
 
