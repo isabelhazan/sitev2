@@ -10,7 +10,7 @@ When we’re young, it feels like we will be that way forever.
 
 It feels like forever that we will be laughing hard with our friends half drunk in bars, pulling glasses off of sticky counters, scrutinizing over Uber prices, gauging whether our friends _also_ want to get fries to dull the hangover we will wake up with the next day. 
 
-It feels like forever that we will be able to send a spontaneous text saying _“want to go to a café and hang out all day? or come over and do nothing?"_, and forever that we'll be able to get that same text and say yes to it.
+It feels like forever that we will be able to send a spontaneous text saying _“want to go to a café and hang out all day? or come over and do nothing?"_
 
 It feels like forever that we will have the freedom to do what we want in the present, with the seemingly unurgent voice occasionally nagging at us, wondering if we’re headed where we genuinely want to go… 
 
