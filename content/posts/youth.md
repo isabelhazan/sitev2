@@ -20,9 +20,9 @@ So, instead of trying to "figure out" time, perhaps we should focus on seizing t
 
 Each day is one small tick on our life’s clock, the hand moving steadily, consistently, patiently but persistently around the circle. 
 
-It feels like we will have forever to decide what it is that we want to _really do_ — not the thing we kind-of-like, but “aren’t sure if it's the thing we'd do forever”. 
+It feels like we will have forever to decide what it is that we _really want to do_ — not the thing we kind-of-like, but “aren’t sure if it's the thing we'd do forever”. 
 
-It feels like we will be able to ponder, to wonder, to remain undecided, forever. 
+It feels like forever that we will be able to ponder, to wonder, to remain undecided. 
 
 But it isn't forever. 
 
@@ -38,7 +38,7 @@ And hey, being honest with ourselves isn't easy. No one tells us how to do it. I
 
 So, yeah, untangling the stream of decisions we make in search of approval is tough! It's complicated. It requires deep thought and introspection, because the self knowledge needed to determinine and follow our True Trajectory is buried so deeply inside us, under layers and layers of approval-seeking tissue that we literally need to **mine our own mind**, day in and day out, to access it. 
 
-It's incredibly confronting to tap into the true versions of ourselves. The version of ourselves that exist in absence of the desire to please others. We're more comfortable being who society wants us to be than who we really are. We know ourselves better in the eyes of the external world (always acutely aware of how our actions will be 'perceived'), than we know ourselves from an internal perspective (what do _we think_ of who we're becoming? Is this the person we really want to be? Do we even know what that looks like?).
+It's incredibly confronting to tap into the true versions of ourselves. The version of ourselves that exists in absence of the desire to please others. We're more comfortable being who society wants us to be than who we really are. We know ourselves better in the eyes of the external world (always acutely aware of how our actions will be 'perceived'), than we know ourselves from an internal perspective (what do _we think_ of who we're becoming? Is this the person we really want to be? Do we even know what that looks like?).
 
 The amount of personal responsibility we need to take to actually live the life that we want is tremendous. It never ceases to amaze me how hard I have to work to figure out what it is that I am doing to get the approval of others, pursuing what I've been told to value, vs. what I am doing that stems from me, from what I value, from what I want, as an individual. Even distilling one act that is purely self directed (done completely for ourselves and no one else) can be a challenge. 
 
@@ -49,23 +49,23 @@ I often think about this excerpt from one of my favourite articles of all time, 
 
 Society isn't designed to have everyone think independently - it would break! So it's essential to remove any expectation of the world encouraging you to do the inner work of discovering a path that is true to you. If you're lucky, maybe there's a person or two in your life who see something special in you, and have encouraged you to follow your own path, to trust in your gifts. But many don't even have this. The only thing we all have - for certain - is ourselves. It's the one constant in our lives that we can rely on, and the only tool that we can decide to activate, any time we want. 
 
-Sorting out our own truth is some of the most important work we can do on a personal level. It is essential to figure out what the North Star of our lives is (who we want to become), so we can work towards this aim, and be confident that the choices we are making align with _where we want to go_.  Otherwise, there will always be another reward to chase, someone else's approval to gain, another step on the ladder to climb. The thing about chasing approval is that our desire for it is insatiable. No matter how much approval you get, there will always be more you could gain, more people to impress, higher levels of prestige, status, and wealth that you could reach. 
+Sorting out our own truth is some of the most important work we can do on a personal level. It is essential to figure out what the North Star of our lives is (who we want to become), so we can work towards this aim, and be confident that the choices we are making align with _where we want to go_.  The thing about chasing approval is that our desire for it is insatiable. There will always be another reward to chase, someone else's approval to gain, another step on the ladder to climb. 
 
-Re-orienting our choices around gaining our own _personal_ approval reframes everything, allowing us to focus on independently derived priorities, instead of constantly looking around and see what is "in" right now, what the approval game of the moment is. 
+Re-orienting our choices around gaining our own _personal_ approval allows us to focus on independently derived priorities, instead of constantly looking around to see what is "in" right now, what the approval game of the moment is. 
 
-We need to know where we're aiming, because [otherwise, we have no chance of getting there](https://www.isabelhazan.com/posts/alignment/). Society is working over-time to reduce the critical thought we dedicate to our path. Always dangling another reward in front of us to distract us from the inner work of discovering who we are in the absence of the societal gaze we're so used to posing for. 
+We need to know where we're aiming, because otherwise, [we have no chance of getting there](https://www.isabelhazan.com/posts/alignment/). Society is working over-time to reduce the critical thought we dedicate to our path. Always dangling another reward in front of us to distract us from the inner work of discovering who we are in the absence of the societal gaze we're so used to posing for. 
 
-One question that I've been pondering lately is: _Would my 5 years ago self be proud of where I am now? Of the decisions I'm making today? Am I making decisions in the present that would make my future self proud, grateful, better off?_
+A thought I've been pondering lately is: _Would my 5 years ago self be proud of where I am now? Of the decisions I'm making today? Am I making decisions in the present that would make my future self proud, grateful, better off?_
 
 Thinking of my choices in terms of past and future versions of myself illuminates one thing pretty clearly: the way to make my past/future self the most proud at any point in time is usually to do the thing that feels the most scary, uncomfortable, and _true_ in that moment. The thing I want to do, but am scared to do. The thing others would caution me against, but what I know within myself I am capable of. 
 
 It's easier said than done to live this principle, but determining what is the most scary and true to us at any given moment, and then doing it, feels like the most we can hope for from ourselves. 
 
-It's worth consistently reflecting on where we are headed to ensure the choices we are making align with us. If we don't, we will continue to follow a trail of rewards, of external validation, of doing the Right Thing, all the while time is passing by--our youth is evaporating slowly, like the steam rising off of hot puddles after a summer rain. 
+It's worth consistently reflecting on where we are headed to ensure the choices we are making align with us. If we don't, we will continue to follow a trail of rewards, of external validation, of doing the Right Thing, while time relentlessly passes by. 
 
-Youth isn't forever. This period consisting of little external responsibility (no family, kids, mortgages yet) and extreme personal agency is dwindling, with each passing tick of our life's clock. 
+Youth isn't forever. It is evaporating slowly, like the steam rising from hot puddles after a summer rain. This period consisting of little external responsibility (no family, kids, mortgages yet) and extreme personal agency is dwindling, with each passing tick of our life's clock. 
 
-There is no better time to begin being honest with ourselves than the present. No better time to start mining for that nugget of truth within our own mind - peering into the window inside us to see who really are. This takes time, effort, discipline. It might even be painful. 
+There is no better time to begin being honest with ourselves than the present. No better time to mine for that nugget of truth within our own mind. No better time to peer into the window inside us to see who really are. Seeking truth takes time, effort, and discipline. It will likely be painful, and disorienting. 
 
 But it will be worth it, because what greater success is there than living a life that is true to you? 
 
