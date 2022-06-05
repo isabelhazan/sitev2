@@ -9,9 +9,9 @@ I write for high potential people that want to actualize their potential in a di
 This site mostly acts as a library of my thoughts. I write to keep myself humble, realize how often I am wrong, and to remind myself how frequently lessons in life repeat themselves until I internalize them. You can read more about me and why I write [here](https://www.isabelhazan.com/about/) 
 
 ### Where to find more of me
-If you enjoy what you find here, you may want to [sign up for my newsletter](https://isabelhazan.ck.page/) where I send out a weekly(ish) essay outlining my current breakthrough thoughts on life, meaning, alignment, self actualization, and other curiosity-inspired-writing-rabbit-holes.
+If you enjoy what you find here, you might want to sign up to receive my new writing via [Substack](https://mindmine.substack.com), where I am exploring my own mind via a newsletter called Mind Mine. Similar to how precious minerals need to be excavated with diligent, ruthless effort, so do the gems of truth within our own mind. Hence: Mind Mine! :) I'm aiming to write once a week but hopefully will be ramping that up even more soon.
 
-All of my writing is stored on this site, but you can see some of the original posts on my [Medium page](https://medium.com/@isabelhazan).
+All of my writing is stored on this site, but you can also see some of the original posts on my [Medium page](https://medium.com/@isabelhazan).
 
 I'm also fairly active on [Twitter](https://twitter.com/isabelhazan).
 
