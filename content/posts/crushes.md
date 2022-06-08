@@ -1,7 +1,7 @@
 ---
 title: "crushes are often just misplaced ambition"
 description: "what the people we're into tell us about ourselves"
-date: "2020-05-24"
+date: "2022-06-07"
 draft: false
 ---
 ### what the people we're drawn to tell us about ourselves
