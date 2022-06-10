@@ -32,7 +32,7 @@ _What if we didn’t let harsh realities and rejections cripple our future plans
 
 What if we kept undying faith that we could accomplish whatever it is that we wanted to achieve? What if we committed to stopping at nothing to achieve the goals and dreams we had for ourselves at age 19 or 20 (assuming we still want these things)?
 
-### ###Holding Onto Our College Hope
+### Holding Onto Our College Hope
 The thing about college is that it makes you feel like you can do anything. It makes you feel like you are invincible, unstoppable, valuable, capable, and worthy of what YOU want. But the real world doesn’t treat you that way. The real world doesn’t really care about your hopes and dreams, it’s just going to treat you like everyone else.
 
 Thus, it is our responsibility to preserve the youthful optimism that college introduced into our lives. Those late night chats with friends where you didn’t care about anything but that moment. That level of presence. The magnitude of the vision we had for ourselves. The confidence that we would just “figure out” whatever came next. That trust in ourselves.
