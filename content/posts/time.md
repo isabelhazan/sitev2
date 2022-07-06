@@ -1,7 +1,7 @@
 ---
 title: "on processing the passage of time"
 description: "and the one effective act of rebellion i've found against it"
-date: "202-06-30"
+date: "2022-06-30"
 draft: false
 
 ---
