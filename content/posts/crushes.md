@@ -27,10 +27,7 @@ Almost every guy I've ever been into has given me the feeling that they might be
 
 If a guy is simple, basic, easy to understand, if it's obvious that the interaction can't be reciprocal intellectually, that it will only be me talking and them pondering, dumb-founded because they've never thought about things on such a 'deep level', I'm instantly bored.
 
-email
-password
-hazanisabel@gmail.com
-✓
+
 So, for me, my crushes typically represent an ambition to learn more, to better understand myself, to think more deeply. I think this is worth noting for a number of reasons. Number one, it helps us see where we have ambition. I do want to always be learning, better understanding myself, becoming more calm within myself, thinking more deeply. This feels obvious as I write it out. I mean, there's evidence of this everywhere in my life. But there is no evidence as rich and obvious as my crushes—as the people that catch my attention and hold it. As the people that I find beautiful.
 
 The people I find beautiful are almost never just attractive people. They are people (and things) that demand attention, effort, thought to be completely understood. I can appreciate mere physical beauty, but it doesn't excite me. The idea of having to peel back layers to completely understand something or someone is what excites me.
